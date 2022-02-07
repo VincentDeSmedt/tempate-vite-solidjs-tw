@@ -1,4 +1,4 @@
-# tempate-vite-solidjs-tw
+# template-vite-solidjs-tw
 Starter template for Vite, SolidJs and TailwindCss project:
 
 * NodeJs version: v16.13.2 
