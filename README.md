@@ -1,8 +1,12 @@
 # template-vite-solidjs-tw
 Starter template for Vite, SolidJs and TailwindCss project:
-## Start here: 
+## Start here:
+Install
 ```bash
-yarn 
+yarn install
+```
+Start dev
+```bash
 yarn run dev
 ```
 
