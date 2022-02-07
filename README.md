@@ -1,6 +1,12 @@
 # template-vite-solidjs-tw
 Starter template for Vite, SolidJs and TailwindCss project:
+## Start here: 
+```bash
+yarn 
+yarn run dev
+```
 
+## Versions:
 * NodeJs version: v16.13.2 
 * Yarn version: 3.1.1
 * Vite version: 2.7.13
